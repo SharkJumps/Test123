@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 6: invalid syntax
+    Character("Chise", color = 3C932A )
+                                     ^
+
+Ren'Py Version: Ren'Py 6.99.14.2.3333
+Fri Mar 30 13:32:24 2018
